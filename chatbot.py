@@ -22,22 +22,6 @@ qa_chain = RetrievalQA.from_chain_type(
     return_source_documents=True  
 )
 
-# def ask_question(query):
-#     prompt = (
-#         "You are an assistant answering strictly based on Coinbase Learn articles.\n"
-#         "Always quote or reference their content and provide a clear explanation.\n"
-#         "If the information isn't found in the Coinbase Learn data, say you don't know.\n\n"
-#         "Examples:\n"
-#         "Q: What is staking?\n"
-#         "A: According to Coinbase Learn, staking is a way of earning rewards for holding certain cryptocurrencies.\n\n"
-#         "Q: What is a memecoin?\n"
-#         "A: Coinbase Learn explains that memecoins are cryptocurrencies inspired by memes, often highly volatile and speculative.\n\n"
-#         f"Now answer the following:\nQ: {query}"
-#     )
-#     result = qa_chain(prompt)
-#     answer = result["result"]
-#     sources = result.get("source_documents", [])
-#     return answer, sources
 
 llm = ChatOpenAI(temperature=0, openai_api_key=OPENAI_API_KEY)
 
