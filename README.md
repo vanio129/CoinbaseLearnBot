@@ -5,7 +5,7 @@ A lightweight, LLM-powered chatbot that uses Coinbase's Learn content to answer 
 ---
 
 ##  Live Demo
-Try it live: **[https://coinbaselearnbot-ivan.streamlit.app/] (https://coinbaselearnbot-ivan.streamlit.app/)**
+Try it live: ** https://coinbaselearnbot-ivan.streamlit.app/ **
 
 > *(Deployed on Streamlit Cloud — no setup required)*
 
@@ -24,8 +24,8 @@ Try it live: **[https://coinbaselearnbot-ivan.streamlit.app/] (https://coinbasel
 
 1. **Clone the repo**:
     ```bash
-    git clone https://github.com/your-username/coinbase-chatbot.git
-    cd coinbase-chatbot
+    git clone https://github.com/vanio129/CoinbaseLearnBot.git
+    cd CoinbaseLearnBot
     ```
 
 2. **Set up the environment**:
