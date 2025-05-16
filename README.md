@@ -5,7 +5,7 @@ A lightweight, LLM-powered chatbot that uses Coinbase's Learn content to answer 
 ---
 
 ##  Live Demo
-Try it live: **[https://coinbaselearnbot-ivan.streamlit.app/](https://coinbaselearnbot-ivan.streamlit.app/)**
+Try it live: **[https://coinbaselearnbot-ivan.streamlit.app/] (https://coinbaselearnbot-ivan.streamlit.app/)**
 
 > *(Deployed on Streamlit Cloud — no setup required)*
 
@@ -65,6 +65,6 @@ This tool is for demonstration purposes only. It is **not affiliated with Coinba
 ##  Author
 
 **Ivan Stoyanchev**  
-[LinkedIn](https://www.linkedin.com/in/yourusername)
+[LinkedIn](https://www.linkedin.com/in/ivanstoyanchev)
 
 © 2025
